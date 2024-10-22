@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1702131534 source:c:\games\python\cpp\tubesstd\main.cpp
+	"STD.h"
+
+1702131392 c:\games\python\cpp\tubesstd\std.h
+	<iostream>
+
+1702131412 source:c:\games\python\cpp\tubesstd\tubesstd.cpp
+	"STD.h"
+
+1702178150 source:d:\semester 3\struktur data\tubesstd\tubesstd\main.cpp
+	"STD.h"
+
+1702175349 d:\semester 3\struktur data\tubesstd\tubesstd\std.h
+	<iostream>
+
+1702179244 source:d:\semester 3\struktur data\tubesstd\tubesstd\tubesstd.cpp
+	"STD.h"
+
+1702187416 source:c:\games\python\cpp\tubesstd1\main.cpp
+	"STD.h"
+
+1702187406 c:\games\python\cpp\tubesstd1\std.h
+	<iostream>
+	<stdlib.h>
+
+1702186748 source:c:\games\python\cpp\tubesstd1\tubesstd.cpp
+	"STD.h"
+
+1702217047 source:d:\semester 3\struktur data\tubesstd1\tubesstd1\tubesstd.cpp
+	"STD.h"
+
+1702217126 d:\semester 3\struktur data\tubesstd1\tubesstd1\std.h
+	<iostream>
+	<stdlib.h>
+
+1702208332 source:d:\semester 3\struktur data\tubesstd1\tubesstd1\main.cpp
+	"STD.h"
+
+1702264141 source:c:\users\fmaul\downloads\tubesstd1\tubesstd1\main.cpp
+	"STD.h"
+
+1702264265 c:\users\fmaul\downloads\tubesstd1\tubesstd1\std.h
+	<iostream>
+	<stdlib.h>
+
+1702264236 source:c:\users\fmaul\downloads\tubesstd1\tubesstd1\tubesstd.cpp
+	"STD.h"
+
+1704089216 source:d:\tubesstd1\tubesstd1\main.cpp
+	"STD.h"
+
+1702264265 d:\tubesstd1\tubesstd1\std.h
+	<iostream>
+	<stdlib.h>
+
+1703937142 source:d:\tubesstd1\tubesstd1\tubesstd.cpp
+	"STD.h"
+
